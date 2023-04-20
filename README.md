@@ -1,13 +1,13 @@
-# Install S.I. Whaticket SaaS
+# Instalar S.I. Whaticket SaaS
 
 ```bash
 sudo apt -y update && apt -y upgrade
 ```
 
-FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
+DESCARGAR EL INSTALADOR E INICIAR LA PRIMERA INSTALACIÓN (UTILIZAR SOLO PARA LA PRIMERA INSTALACIÓN):
 
 ```bash
-sudo apt install -y git && git clone https://github.com/melissagobatti/install_siwhaticket_saas.git install_whaticket && sudo chmod -R 777 install_whaticket  && cd install_whaticket  && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/Appvortex/p1_hooooot.git && sudo chmod -R 777 install_whaticket  && cd install_whaticket  && sudo ./install_primaria
 ```
 
 ## Requisitos
